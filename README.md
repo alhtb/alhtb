@@ -22,14 +22,14 @@ I’d be delighted to connect and explore potential opportunities together. Feel
 
 # 💻 Tech Stack:
 ## Languages
-<img src="assets/icons/python-icon.svg" alt="Python" width="50" height="50">
-<img src="assets/icons/mysql-icon.svg" alt="MySQL" width="50" height="50">
-<img src="assets/icons/html-icon.svg" alt="HTML" width="50" height="50">
-<img src="assets/icons/css-icon.svg" alt="CSS" width="50" height="50">
-<img src="assets/icons/java-icon.svg" alt="Java" width="50" height="50">
+<a> <img src="assets/icons/python-icon.svg" alt="Python" width="50" height="50"> </a>
+<a> <img src="assets/icons/mysql-icon.svg" alt="MySQL" width="50" height="50"> </a>
+<a> <img src="assets/icons/html-icon.svg" alt="HTML" width="50" height="50"> </a>
+<a> <img src="assets/icons/css-icon.svg" alt="CSS" width="50" height="50"> </a>
+<a> <img src="assets/icons/java-icon.svg" alt="Java" width="50" height="50"> </a>
 
 
 ## Tools
-<img src="assets/icons/vscode-icon.svg" alt="VSCode" width="50" height="50">
-<img src="assets/icons/figma-icon.svg" alt="Figma" width="50" height="50">
-<img src="assets/icons/gcolab-icon.svg" alt="Google Colab" width="50" height="50">
+<a> <img src="assets/icons/vscode-icon.svg" alt="VSCode" width="50" height="50"> </a>
+<a> <img src="assets/icons/figma-icon.svg" alt="Figma" width="50" height="50"> </a>
+<a> <img src="assets/icons/gcolab-icon.svg" alt="Google Colab" width="50" height="50"> </a>
