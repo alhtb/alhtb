@@ -9,7 +9,7 @@ Hi! I am Krish <br>
 
 ## 🌐 Socials:
 I’d be delighted to connect and explore potential opportunities together. Feel free to reach out—let’s create something great!
-<a href="www.linkedin.com/in/krishlatuburan">
+<a href="https://www.linkedin.com/in/krishlatuburan/">
   <img src="assets/icons/linkedin-icon.svg" alt="LinkedIn" width="20" height="20">
 </a>
 <a href="https://www.instagram.com/alh.tb?igsh=emltc2Nkd3kwc2Jz">
