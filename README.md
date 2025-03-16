@@ -4,7 +4,7 @@ Hi! I am Krish <br>
 🔍 Exploring Data Science & 🔒 Cybersecurity<br><br>
 
 ⚡ Fun fact<br>
-- I refresh myself thru reading manhwas, BL or fiction stories and <br> watching movies, animes, tv series or documentaries (mostly crime related)<br>
+- I refresh myself thru reading manhwas, BL or fiction stories and watching movies, animes, tv series or documentaries (mostly crime related)<br>
 - I am also learning Spanish language<br>
 
 ## 🌐 Socials:
