@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! I am Krish <br>
 💻Computer Science Student at National University - Dasmariñas<br>
-🔍 Exploring Data Science & 🔒 Cybersecurity
+🔍 Exploring Data Science
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alhtb&label=Profile%20views&color=0e75b6&style=flat" alt="alhtb" /> </p> <br>
 
 ⚡ Fun fact<br>
